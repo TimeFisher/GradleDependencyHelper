@@ -5,7 +5,7 @@ An Android Studio Plugin for searching maven dependencies faster.
 GradleDependencyHelper is an Android Studio Plugin for searching dependencies faster.Finish importing your gradle dependency with this plugin instead of opening the web browser.
 
 ### Usage
-Install the plugin,find out the plugin named GDependency in the ToolsMenu or press ctrl+alt+V to open the plugin window.
+Install the plugin,find out the plugin named GDependency in the ToolsMenu or press ctrl+alt+G to open the plugin window.
 <div align=center><img width="800" height="450" src="screenshots/pic5.png"/></div>  
 
 It should be like this.
