@@ -25,8 +25,8 @@ Select the dependency you need,press the copy button to copy the latest version 
 
 Finally go to your gradle file and press ctrl+v to paste it.
 
-[Download plugin](plugin/GradleDependencyHelper.zip)
-Download the dependency file and install it in the setting menu.
+[Download ](plugin/GradleDependencyHelper.zip)
+the dependency file and install it in the setting menu.
 
 ## Notice
     1.The plugin uses fastjson to parse json data.
